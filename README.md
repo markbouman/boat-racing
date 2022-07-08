@@ -5,3 +5,5 @@ This is a final project which I completed for a computer graphics course, with a
 My main contributions to this project are rendering the boat from a .obj file, calulating collisions, and adding particle effects to the boat.
 
 This project was completed using C++ and OpenGL/GLUT, working in a Linux environment. Final grade for the course was A+.
+
+![image](https://user-images.githubusercontent.com/103944120/178012337-b075499a-dbf1-4872-a4fe-07829e650d87.png)
